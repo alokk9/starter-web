@@ -14,3 +14,5 @@ This is a simple we project, deployment can be on any web server or even on loca
 
 ## How To Contribute
 
+2019 Git. Training.
+
