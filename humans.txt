@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	John Doe	jdoe@emaildomain.com	@jdoe
 # THANKS
 
     <name>
